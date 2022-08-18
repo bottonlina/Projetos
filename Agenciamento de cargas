@@ -25,7 +25,7 @@
 			<p>CPF: <input type="text" name="cpf" maxlength="14"placeholder="xxx.xxx.xxx-xx"
 				pattern="[0-9]{3}\.[0-9]{3}\.[0-9]{3}-[0-9]{2}" style="width: 250px";></p>
 			<br>
-			<h3>Acesso</h3>
+			<h3>Acesso do motorista</h3>
 			<p>Nova Senha: <input type="password" name="senha" maxlength="8" placeholder="Escolha 8 dígitos"required style="width: 210px";></p>
 			<p>Repita a Senha: <input type="password" name="senha" maxlength="8" placeholder="Escolha 8 dígitos"required style="width: 192px";></p>
 			<p><i><font size=-1 color="gray">Use números e letras para maior segurança!</font></i>
