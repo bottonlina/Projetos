@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Hanoi Tower</title>
+  <style>
+
+  INPROGRESS
+
+</style>
+ </head>
+ <body>
+ 	<div class="hatower">
+ 		<div class="step n1 t1 p5" />
+ 		<div class="step n2 t1 p4" />
+ 		<div class="step n3 t1 p3" />
+ 		<div class="step n4 t1 p2" />
+ 		<div class="step n5 t1 p1" />
+ 		<div class="towerx"></div>
+ 		<div class="towerx"></div>
+ 		<div class="towerx"></div>
+ 	</div>
+ </body>
+</html>
