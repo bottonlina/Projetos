@@ -21,7 +21,7 @@
 				pattern="[0-9]{3}\.[0-9]{5}\.[0-9]{3}" style="width: 230px";></p>
 			<br>
 			<br>
-			<p>CNH <input type="text" name="cnh" placeholder="Informe o n° da sua CNH aqui" maxlength="12" style="width: 250px";></p>
+			<p>CNH <input type="text" name="cnh" placeholder="Informe n° da sua CNH aqui" maxlength="12" style="width: 250px";></p>
 			<p>CPF: <input type="text" name="cpf" maxlength="14"placeholder="xxx.xxx.xxx-xx"
 				pattern="[0-9]{3}\.[0-9]{3}\.[0-9]{3}-[0-9]{2}" style="width: 250px";></p>
 			<br>
