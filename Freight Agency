@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head><title>Projeto 1 Eng</title></head>
+<body>
+	<header><h1><center>
+		Vrum - Freight Agency</center></h1>
+	</header>
+	<hr>
+	<nav><p>
+	<br>
+		<section><center><h3>Driver's registration</h3></center></section>
+	</p></nav>
+	<br>
+	<section><center>
+		<form method="post" action="#">
+			<p>Full name: <input type="text" name="name" placeholder="Write your full name here" required style="width: 470px";></p>
+			<p>Address: <input type="text" name="address" placeholder="Write your full address here, including zip code" style="width: 482px;height: 40px";></p>
+			<p>Lorry model: <input type="text" name="lorry" placeholder="What's your lorry model?" style="width: 454px";></p>
+			<p>Trailer model: <input type="text" name="trailer" placeholder="What's your trailer model?" style="width: 447px";></p>
+			<p>Telephone: <input type="text" name="telephone" maxlength="12"placeholder="0XX 9XXXX XXX"
+				pattern="[0-9]{3}\.[0-9]{5}\.[0-9]{3}" style="width: 200px";></p>
+			<br>
+			<br>
+			<p>DL <input type="text" name="dl" placeholder="Inform your driving licence here" maxlength="12" style="width: 250px";></p>
+			<p>NI: <input type="text" name="ni" maxlength="14"placeholder="xx xx xx xx"
+				pattern="[0-9]{2}\-[0-9]{2}\-[0-9]{2}-[0-9]{2}" style="width: 250px";></p>
+			<br>
+			<h3>Sign-in</h3>
+			<p>New Password: <input type="password" name="password" maxlength="8" placeholder="Choose 8 characters"required style="width: 174px";></p>
+			<p>Repeat password: <input type="password" name="password" maxlength="8" placeholder="Choose 8 characters"required style="width: 161px";></p>
+			<p><i><font size=-1 color="gray">Use numbers and letters for a safer experience!</font></i>
+			</p>
+	</center></section><br><br>
+	   <center><input type="submit" value="Send">
+			</p></center>
+</body>
+</html>
